@@ -2,9 +2,7 @@
 
 ### Computer Science Student | Backend Developer | Aspiring DevOps Engineer
 
-I am a Computer Science student from the Philippines with a strong interest in backend development, cloud computing, distributed systems, and DevOps engineering.
-
-My goal is to build scalable and reliable software systems while continuously improving my knowledge of software architecture, infrastructure, automation, and cloud technologies.
+I am a Computer Science student from the Philippines with a strong interest in backend development, cloud computing, and DevOps engineering.
 
 ---
 
@@ -14,46 +12,21 @@ My goal is to build scalable and reliable software systems while continuously im
 * 💻 Focused on Backend Development and Software Engineering
 * ☁️ Currently learning Cloud Computing and DevOps
 * 🐳 Building projects with Docker and PostgreSQL
-* 📚 Continuously studying system design, distributed systems, and infrastructure
 * 🚀 Working toward becoming a DevOps Engineer
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
+**Languages:** Python, PHP, SQL
 
-* Python
-* Java
-* PHP
-* SQL
+**Backend:** FastAPI, Laravel, REST APIs
 
-### Backend Development
+**Databases:** PostgreSQL, MySQL
 
-* FastAPI
-* Laravel
-* REST APIs
+**Tools:** Docker, Linux, Git, GitHub
 
-### Databases
-
-* PostgreSQL
-* MySQL
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* Docker
-* Linux
-* VS Code
-
-### Currently Learning
-
-* Kubernetes
-* AWS
-* CI/CD Pipelines
-* Infrastructure Automation
-* Distributed Systems
+**Currently Learning:** Kubernetes, AWS, CI/CD
 
 ---
 
@@ -61,107 +34,34 @@ My goal is to build scalable and reliable software systems while continuously im
 
 ### Distributed Job Platform
 
-A distributed task processing platform designed to explore scalable backend architectures.
-
-**Technologies:**
-
-* FastAPI
-* PostgreSQL
-* Docker
-* Redis
-
-**Key Concepts:**
-
-* Distributed Systems
-* Task Queues
-* API Development
-* Containerization
-
----
+Distributed task processing platform built with FastAPI, PostgreSQL, Redis, and Docker.
 
 ### Inventory Management System
 
-A web-based inventory management solution built with Laravel and PostgreSQL.
-
-**Technologies:**
-
-* Laravel
-* PHP
-* PostgreSQL
-
-**Key Concepts:**
-
-* CRUD Operations
-* Database Design
-* Backend Development
-
----
+Inventory tracking and management application built with Laravel and PostgreSQL.
 
 ### Mental Health Chatbot
 
-A chatbot project developed to support student mental wellness.
+AI-powered chatbot designed to support student mental wellness.
 
-**Technologies:**
+### Uconnect
 
-* Python
-* Natural Language Processing
-* Machine Learning Concepts
+University social media exclusively for students of BSU
 
 ---
 
-## Current Learning Roadmap
+## Current Focus
 
-### Backend Engineering
-
-* Advanced API Design
-* Authentication & Authorization
-* System Design
-
-### Cloud Computing
-
-* AWS Fundamentals
-* Cloud Architecture
-* Networking Basics
-
-### DevOps
-
-* Docker
-* Kubernetes
-* CI/CD
-* Infrastructure as Code
-
-### Data Engineering
-
-* Data Pipelines
-* ETL Processes
-* Data Warehousing
+* Backend Engineering
+* Cloud Computing
+* DevOps Practices
+* Distributed Systems
 
 ---
 
-## Certifications (Planned)
+## Connect
 
-* AWS Certified Cloud Practitioner
-* AWS Solutions Architect Associate
-* Docker Certifications
-* Kubernetes Certifications
+* LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/jian-klievert-medrano-97a843289/)
+* Email: medranojianklievert@gmail.com
 
----
-
-## GitHub Goals
-
-* Build production-style backend projects
-* Improve software architecture skills
-* Learn cloud-native development
-* Contribute to open-source projects
-* Develop DevOps and automation expertise
-
----
-
-## Connect With Me
-
-* LinkedIn: [Your LinkedIn]
-* Email: [Your Email]
-
----
-
-> “Focus on building systems that solve real problems and continuously improve the engineering behind them.”
+> Building scalable systems and continuously improving as a software engineer.
