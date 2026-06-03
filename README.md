@@ -1,112 +1,167 @@
-```md
-<h1 align="center">Jian Klievert Medrano</h1>
-<h3 align="center">Computer Science Student • Backend Developer • Aspiring DevOps Engineer</h3>
+# Hi, I'm Jian Klievert Medrano 👋
+
+### Computer Science Student | Backend Developer | Aspiring DevOps Engineer
+
+I am a Computer Science student from the Philippines with a strong interest in backend development, cloud computing, distributed systems, and DevOps engineering.
+
+My goal is to build scalable and reliable software systems while continuously improving my knowledge of software architecture, infrastructure, automation, and cloud technologies.
 
 ---
 
 ## About Me
 
-Computer Science student with a strong interest in backend engineering, cloud computing, distributed systems, and DevOps.
-
-I enjoy building scalable applications, designing reliable systems, and learning technologies that improve software delivery and infrastructure management. My current focus is on backend development, containerization, cloud platforms, and automation.
+* 🎓 Computer Science Student
+* 💻 Focused on Backend Development and Software Engineering
+* ☁️ Currently learning Cloud Computing and DevOps
+* 🐳 Building projects with Docker and PostgreSQL
+* 📚 Continuously studying system design, distributed systems, and infrastructure
+* 🚀 Working toward becoming a DevOps Engineer
 
 ---
 
 ## Technical Skills
 
-### Languages
-- Python
-- Java
-- PHP
-- SQL
+### Programming Languages
+
+* Python
+* Java
+* PHP
+* SQL
 
 ### Backend Development
-- FastAPI
-- Laravel
-- RESTful APIs
+
+* FastAPI
+* Laravel
+* REST APIs
 
 ### Databases
-- PostgreSQL
-- MySQL
 
-### DevOps & Cloud
-- Docker
-- Linux
-- Git
-- GitHub
+* PostgreSQL
+* MySQL
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Docker
+* Linux
+* VS Code
 
 ### Currently Learning
-- Kubernetes
-- AWS
-- CI/CD Pipelines
-- Infrastructure as Code
-- Distributed Systems
+
+* Kubernetes
+* AWS
+* CI/CD Pipelines
+* Infrastructure Automation
+* Distributed Systems
 
 ---
 
 ## Featured Projects
 
 ### Distributed Job Platform
-A distributed task processing platform built to explore scalable backend architectures and system reliability.
 
-**Tech Stack:** FastAPI, PostgreSQL, Redis, Docker
+A distributed task processing platform designed to explore scalable backend architectures.
+
+**Technologies:**
+
+* FastAPI
+* PostgreSQL
+* Docker
+* Redis
+
+**Key Concepts:**
+
+* Distributed Systems
+* Task Queues
+* API Development
+* Containerization
+
+---
 
 ### Inventory Management System
-A web-based inventory management solution focused on efficient product tracking and inventory operations.
 
-**Tech Stack:** Laravel, PostgreSQL, PHP
+A web-based inventory management solution built with Laravel and PostgreSQL.
+
+**Technologies:**
+
+* Laravel
+* PHP
+* PostgreSQL
+
+**Key Concepts:**
+
+* CRUD Operations
+* Database Design
+* Backend Development
+
+---
 
 ### Mental Health Chatbot
-A conversational application developed to provide accessible mental health support for students.
 
-**Tech Stack:** Python, NLP, Machine Learning
+A chatbot project developed to support student mental wellness.
 
----
+**Technologies:**
 
-## Current Focus
-
-- Backend System Design
-- Cloud Computing Fundamentals
-- Containerization and Orchestration
-- DevOps Practices
-- Software Architecture
-- Automation and Infrastructure
+* Python
+* Natural Language Processing
+* Machine Learning Concepts
 
 ---
 
-## Goals
+## Current Learning Roadmap
 
-- Build production-ready backend systems
-- Gain hands-on experience with cloud platforms
-- Develop expertise in DevOps and infrastructure automation
-- Contribute to open-source projects
-- Pursue industry-recognized cloud certifications
+### Backend Engineering
 
----
+* Advanced API Design
+* Authentication & Authorization
+* System Design
 
-## Certifications Roadmap
+### Cloud Computing
 
-- AWS Certified Cloud Practitioner
-- AWS Solutions Architect – Associate
-- Docker Certification
-- Kubernetes Certification
+* AWS Fundamentals
+* Cloud Architecture
+* Networking Basics
 
----
+### DevOps
 
-## GitHub Statistics
+* Docker
+* Kubernetes
+* CI/CD
+* Infrastructure as Code
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" alt="GitHub Stats" />
-</p>
+### Data Engineering
 
----
-
-## Connect
-
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: your.email@example.com
+* Data Pipelines
+* ETL Processes
+* Data Warehousing
 
 ---
 
-> Building reliable software, scalable systems, and continuously improving as an engineer.
-```
+## Certifications (Planned)
+
+* AWS Certified Cloud Practitioner
+* AWS Solutions Architect Associate
+* Docker Certifications
+* Kubernetes Certifications
+
+---
+
+## GitHub Goals
+
+* Build production-style backend projects
+* Improve software architecture skills
+* Learn cloud-native development
+* Contribute to open-source projects
+* Develop DevOps and automation expertise
+
+---
+
+## Connect With Me
+
+* LinkedIn: [Your LinkedIn]
+* Email: [Your Email]
+
+---
+
+> “Focus on building systems that solve real problems and continuously improve the engineering behind them.”
