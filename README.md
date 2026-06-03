@@ -61,7 +61,7 @@ University social media exclusively for students of BSU
 
 ## Connect
 
-* LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/jian-klievert-medrano-97a843289/)
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/jian-klievert-medrano-97a843289/)
 * Email: medranojianklievert@gmail.com
 
 > Building scalable systems and continuously improving as a software engineer.
