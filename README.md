@@ -2,13 +2,13 @@
 
 ### Computer Science Student | Backend Developer | Aspiring DevOps Engineer
 
-I am a Computer Science student from the Philippines with a strong interest in backend development, cloud computing, and DevOps engineering.
+I am a Computer Science graduate from the Philippines with a strong interest in backend development, cloud computing, and DevOps engineering.
 
 ---
 
 ## About Me
 
-* 🎓 Computer Science Student
+* 🎓 Computer Science Graduate
 * 💻 Focused on Backend Development and Software Engineering
 * ☁️ Currently learning Cloud Computing and DevOps
 * 🐳 Building projects with Docker and PostgreSQL
